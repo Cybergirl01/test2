@@ -1,0 +1,11 @@
+F:\мои данные\vs\Text_exam\ProductsTest\ProductsTest\bin\Debug\ProductsTest.exe.config
+F:\мои данные\vs\Text_exam\ProductsTest\ProductsTest\bin\Debug\ProductsTest.exe
+F:\мои данные\vs\Text_exam\ProductsTest\ProductsTest\bin\Debug\ProductsTest.pdb
+F:\мои данные\vs\Text_exam\ProductsTest\ProductsTest\obj\Debug\ProductsTest.csproj.AssemblyReference.cache
+F:\мои данные\vs\Text_exam\ProductsTest\ProductsTest\obj\Debug\ProductsTest.csproj.SuggestedBindingRedirects.cache
+F:\мои данные\vs\Text_exam\ProductsTest\ProductsTest\obj\Debug\ProductsTest.Properties.Resources.resources
+F:\мои данные\vs\Text_exam\ProductsTest\ProductsTest\obj\Debug\ProductsTest.csproj.GenerateResource.cache
+F:\мои данные\vs\Text_exam\ProductsTest\ProductsTest\obj\Debug\ProductsTest.csproj.CoreCompileInputs.cache
+F:\мои данные\vs\Text_exam\ProductsTest\ProductsTest\obj\Debug\ProductsTest.exe
+F:\мои данные\vs\Text_exam\ProductsTest\ProductsTest\obj\Debug\ProductsTest.pdb
+F:\мои данные\vs\Text_exam\ProductsTest\ProductsTest\obj\Debug\ProductsTest.FormCatalog.resources
